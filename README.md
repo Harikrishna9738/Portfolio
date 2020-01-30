@@ -1,6 +1,6 @@
 # Portfolio
 This project contains the complete details about me,like resume and works i have done and contact details
-# For Frontend which is ReactJS, Dependencies are:
+## For Frontend which is ReactJS, Dependencies are:
 ```
 "react": "^16.12.0",
 "react-dom": "^16.12.0",
@@ -11,7 +11,7 @@ This project contains the complete details about me,like resume and works i have
 ```
 Kindly note redux is not implemented.
 
-Go to 'Todolist/todo-list' and type the following code in the terminal:
+Go to 'Todolist/portfolio' and type the following code in the terminal:
 ```
 npm install
 ```
